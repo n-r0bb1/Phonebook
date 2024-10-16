@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1711437955 source:c:\users\leven\desktop\coding\proiect program\meniu_contacte\main.c
+	<stdio.h>
+	"menus.h"
+
+1711393192 c:\users\leven\desktop\coding\proiect program\meniu_contacte\menus.h
+
+1713775321 source:c:\users\leven\desktop\coding\proiect program\meniu_contacte\menus.c
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1709647519 c:\users\leven\desktop\coding\proiect program\meniu_contacte\sub_menus.h
+
+1713774898 source:c:\users\leven\desktop\coding\proiect program\meniu_contacte\sub_menus.c
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
